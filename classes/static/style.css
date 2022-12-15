@@ -1,0 +1,14 @@
+body {
+    background-image: url("pawel-czerwinski-Qiy4hr18aGs-unsplash.jpg");
+    color: navy;
+    text-align: center;
+    font-size: 20px;
+  }
+
+div {
+    width: 300px;
+    border: 15px solid navy;
+    padding: 50px;
+    margin: 20px;
+    text-align: justify;
+}
